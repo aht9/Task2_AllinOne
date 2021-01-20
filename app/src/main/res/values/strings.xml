@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DrawerView</string>
+    <string name="Title">برنامه ی من</string>
+    <string name="FirstTest">تکس ویو شخصی سازی شده</string>
+    <string name="btnShowWeb">نمایش صفحه ی وب</string>
+    <string name="firstDrawer">منوی اول</string>
+    <string name="secondDrawer">منوی دوم</string>
+</resources>
